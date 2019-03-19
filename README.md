@@ -136,7 +136,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-vue-multiselect](https://github.com/spektrummedia/nuxt-vue-multiselect) - Single / multiple select plugin for Nuxt.js using vue-multiselect.
 - [nuxt-optimized-images](https://github.com/bazzite/nuxt-optimized-images) - Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [nuxt-netlify](https://github.com/bazzite/nuxt-netlify) - Dynamically generate `_headers` and `_redirects` files for Netlify in your Nuxt.js projects.
-
+- [nuxt-polyfill](https://github.com/Timkor/nuxt-polyfill) - Ease adding polyfills to your Nuxt.js project, including lazy loading.
 
 ### Tools
 
